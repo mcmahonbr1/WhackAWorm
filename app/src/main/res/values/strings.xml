@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WhackAWorm</string>
+    <string name="timer_text">Timer</string>
 </resources>
